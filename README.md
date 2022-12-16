@@ -1,4 +1,4 @@
-Consumables
+**Consumables**
 - Paint Bucket : Red
 - Paint Bucket : Yellow
 - Paint Bucket : Green
