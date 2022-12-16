@@ -11,4 +11,19 @@
 - Mars Blast
 - Grow Spray Fertilizer
 - Deluxe Grow Spray
+- Eye Cleaning Solution
+- Contact Lens Cleaning Solution
+- Shampoo
+- Red Contact Lens
+- Green Contact Lens
+- Blue Contact Lens
+- Black Contact Lens
+- Red Eye Drops
+- Green Eye Drops
+- Blue Eye Drops
+- Black Eye Drops
+- Red Hair Dye
+- Green Hair Dye
+- Blue Hair Dye
+- Black Hair Dye
    
