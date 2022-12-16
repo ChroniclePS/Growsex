@@ -1,4 +1,5 @@
-* - Paint Bucket : Red
+Consumables
+- Paint Bucket : Red
 - Paint Bucket : Yellow
 - Paint Bucket : Green
 - Paint Bucket : Aqua
