@@ -16,6 +16,7 @@
 - Signs
 - Heart Monitor
 - Seeds
+- Clothing Compactor
 - Locks (Small Locks & World Locks)
 - Display Shelfs
 - Vending Machine
