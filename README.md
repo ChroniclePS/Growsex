@@ -1,4 +1,15 @@
 ## Features
+### Tile Extras
+- Signs
+- Heart Monitor
+- Seeds
+- Locks (Small Locks & World Locks)
+- Display Shelfs
+- Vending Machine
+- Mailboxes
+- Bulletin Boards
+- Donation Boxes
+
 ### Consumables
 - Paint Bucket : Red
 - Paint Bucket : Yellow
