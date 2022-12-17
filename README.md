@@ -1,4 +1,6 @@
 ## Player
+- Dropping
+- Trashing
 - Rank (Moderator, Developer)
 - Autofarming feature (Wrench your self)
 - XP and Level systems
@@ -53,3 +55,4 @@
 - Door Mover
 - Water Bucket
 - Pocket Lighter
+- Change of Address
