@@ -1,4 +1,12 @@
 ## Features
+
+### Player
+
+### World
+- Placing/Breaking Block
+- Weather Machines
+- Splicing
+
 ### Tile Extras
 - Signs
 - Heart Monitor
