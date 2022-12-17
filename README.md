@@ -28,4 +28,5 @@
 - Blue Hair Dye
 - Black Hair Dye
 - Door Mover
-   
+- Water Bucket
+- Pocket Lighter
