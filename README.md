@@ -1,18 +1,16 @@
-## Features
-
-### Player
+## Player
 - Rank (Moderator, Developer)
 - Autofarming feature (Wrench your self)
 - XP and Level systems
 - Chat system
 - Multiplayer
 
-### World
+## World
 - Placing/Breaking Block
 - Weather Machines
 - Splicing
 
-### Tile Extras
+## Tile Extras
 - Signs
 - Heart Monitor
 - Seeds
@@ -23,7 +21,7 @@
 - Bulletin Boards
 - Donation Boxes
 
-### Consumables
+## Consumables
 - Paint Bucket : Red
 - Paint Bucket : Yellow
 - Paint Bucket : Green
