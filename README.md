@@ -1,6 +1,11 @@
 ## Features
 
 ### Player
+- Rank (Moderator, Developer)
+- Autofarming feature (Wrench your self)
+- XP and Level systems
+- Chat system
+- Multiplayer
 
 ### World
 - Placing/Breaking Block
