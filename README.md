@@ -1,4 +1,5 @@
-**Consumables**
+## Features
+### Consumables
 - Paint Bucket : Red
 - Paint Bucket : Yellow
 - Paint Bucket : Green
@@ -26,4 +27,5 @@
 - Green Hair Dye
 - Blue Hair Dye
 - Black Hair Dye
+- Door Mover
    
