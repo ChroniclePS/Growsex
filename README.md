@@ -20,6 +20,7 @@
 - Mailboxes
 - Bulletin Boards
 - Donation Boxes
+- Display Block
 
 ## Consumables
 - Paint Bucket : Red
