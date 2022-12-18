@@ -14,6 +14,7 @@
 
 ## Tile Extras
 - Signs
+- Mannequins
 - Heart Monitor
 - Seeds
 - Clothing Compactor
